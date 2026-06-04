@@ -1,0 +1,11 @@
+# SkyRiseCrime Configuration
+# System przestepczosci dla SkyRise RolePlay
+
+settings:
+  prefix: "&8[&6SkyRiseCrime&8] &7"
+  debug: false
+
+# Wiadomosci systemowe
+messages:
+  no-permission: "&cNie masz uprawnien do tej komendy!"
+  reload-success: "&aPlugin zostal pomyslnie przeladowany."

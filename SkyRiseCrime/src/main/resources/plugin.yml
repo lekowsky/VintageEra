@@ -1,0 +1,11 @@
+name: SkyRiseCrime
+version: '${project.version}'
+main: pl.skyrise.skyRiseCrime.SkyRiseCrime
+api-version: '1.21'
+authors: [lekofsky, ArenaAgent]
+description: System przestepczosci dla SkyRise RP (Purpur 1.21)
+softdepend: [Vault]
+commands:
+  skyrisecrime:
+    description: Glowna komenda SkyRiseCrime
+    aliases: [crime]
