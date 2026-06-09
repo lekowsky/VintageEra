@@ -1,0 +1,12 @@
+name: SkyRiseCrime
+version: 1.0.0
+main: pl.skyrise.skyRiseCrime.SkyRiseCrime
+api-version: 1.21
+description: Core Crime Framework
+authors: [lekowsky]
+
+commands:
+  skyrisecrime:
+    description: "SkyRiseCrime main command"
+    aliases: [crime, srcrime]
+    permission: skyrisecrime.admin
